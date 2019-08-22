@@ -1,10 +1,3 @@
-Suspects:Colonel Mustard,Ms. White,Ms. Peacock
-Weapons:Knife,Candlestick,Lead Pipe
-Rooms:Dining Room,Billiard Room,Study
-clues:
-not Ms. White
-not the Billiard Room
-not the Study
-not the Lead Pipe
-not the Knife
-not Ms. Peacock
+6
+board:green orange green red orange green red blue green purple
+cards: red red red orange orange orange green green blue purple
