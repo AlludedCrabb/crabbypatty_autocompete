@@ -1,3 +1,10 @@
-abc
-abcc
-abccc
+Suspects:Colonel Mustard,Ms. White,Ms. Peacock
+Weapons:Knife,Candlestick,Lead Pipe
+Rooms:Dining Room,Billiard Room,Study
+clues:
+not Ms. White
+not the Billiard Room
+not the Study
+not the Lead Pipe
+not the Knife
+not Ms. Peacock
